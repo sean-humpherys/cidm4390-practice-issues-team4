@@ -1,0 +1,15 @@
+/* Add padding to body to prevent content from being hidden behind fixed navbar */
+body {
+    padding-top: 56px;
+    /* Approximate height of navbar */
+}
+
+/* Space between navigation bar and page content */
+.page-content {
+    margin-top: 20px;
+}
+
+/* Spacing around homepage cards */
+.card-column {
+    padding: 5px;
+}
