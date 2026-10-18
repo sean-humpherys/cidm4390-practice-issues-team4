@@ -1,4 +1,4 @@
-# Scrum Quick Guide Website
+ # Scrum Quick Guide Website
 Epic User Story: As a visitor to the website, I want to learn the basics about Scrum so I can run my own Scrum teams. 
 
 There will be nine web pages of varying topics. The topics will include the following. 
